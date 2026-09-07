@@ -12,6 +12,5 @@
 ![](https://streak-stats.demolab.com/?user=HaninMaarouf&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=HaninMaarouf&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=HaninMaarouf&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
