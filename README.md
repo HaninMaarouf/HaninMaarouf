@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=180&section=header&text=Hanin%20Maarouf&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-### 💻 Computer Engineering Student • Front-End Developer • Software Enthusiast
+### 💻 Computer Engineering Student • Front-End Developer • Aspiring Software Engineer
 
 </div>
 
@@ -54,20 +54,24 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/haninmaarouf">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="https://behance.net/haninmaarouf">
 <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/2SCEPBEU7w">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/haninmaarouf">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://medium.com/@haninmaarouf81">
 <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-<a href="https://pinterest.com/haninmaarouf_h">
-<img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
+<a href="https://reddit.com/user/HaninMaarouf">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
 </a>
 
 <a href="https://stackoverflow.com/users/33097145">
